@@ -1,0 +1,13 @@
+Spam Messages:
+"Congratulations! You've won a $1,000 Walmart gift card. Go to [link] to claim now!"
+"URGENT: Your account has been compromised! Click [link] to secure your account immediately!"
+"Earn $5,000 a week from home. No experience needed! Sign up at [link]."
+"You have been selected for a limited-time offer! Buy 1 get 1 FREE! Visit [link] now!"
+"Free entry into our contest to win an iPhone! Just text WIN to 12345!"
+
+Non-Spam Messages:
+"Hey, are we still meeting for lunch at 1 PM?"
+"Can you send me the report by the end of the day?"
+"Happy Birthday! Hope you have an amazing day!"
+"Reminder: Your appointment is scheduled for tomorrow at 3 PM."
+"Don’t forget to pick up some groceries on your way back home."
