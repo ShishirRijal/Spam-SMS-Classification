@@ -9,7 +9,7 @@ This project aims to classify SMS messages as either spam or ham (non-spam) usin
 
 The code is structured modularly, enhancing readability and maintainability. 
 
-You can explore the deployed application at [Deployed Link](http://20.197.17.192:8501/).
+You can explore the deployed application. [Click Here](http://20.197.17.192:8501/)
 
 ---
 
